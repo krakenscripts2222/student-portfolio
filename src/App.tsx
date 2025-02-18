@@ -240,7 +240,7 @@ function App() {
                 </div>
                 
                 <p className="text-gray-300 leading-relaxed text-lg text-center mb-8 max-w-2xl mx-auto">
-                  Hello, my name is Dominick Fore, and I'm 14 years old. I'm in 9th grade and attend Mater Academy Easy. My skills are more in computer science, particularly in the development aspect.
+                  Hello, my name is Dominick Fore, and I'm 14 years old. I'm in 9th grade and attend Mater Academy Easy.
                 </p>
                 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mt-8">
