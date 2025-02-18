@@ -285,7 +285,7 @@ function App() {
               <h2 className="text-3xl font-bold text-center mb-8 text-white">Get in Touch</h2>
               <div className="bg-gray-800/50 backdrop-blur-sm p-8 rounded-lg border border-gray-700 shadow-xl">
                 <div className="flex flex-col md:flex-row justify-center items-center gap-8">
-                  <a href="mailto:dominick@example.com" className="flex items-center gap-2 text-gray-300 hover:text-red-400">
+                  <a href="mailto:devndom03@gmail.com" className="flex items-center gap-2 text-gray-300 hover:text-red-400">
                     <Mail className="w-5 h-5" />
                     <span>devndom03@gmail.com</span>
                   </a>
